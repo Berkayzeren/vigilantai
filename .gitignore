@@ -1,0 +1,14 @@
+# Environments
+.env
+
+# Python caches
+__pycache__/
+*.pyc
+
+# AI Models
+*.pt
+*.onnx
+
+# IDEs
+.vscode/
+.idea/
